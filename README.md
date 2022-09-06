@@ -1,7 +1,7 @@
-# Loja NKB <br>
+# Loja NKB 💻👗<br>
 ### Projeto desenvolvido para a matéria de Desenvolvimento WEB. 👩🏻‍💻
 
 Acadêmicas: 
-- Bruuna Celia;
+- Brunna Celia;
 - Kássia Zama;
 - Natalia Santos. 
