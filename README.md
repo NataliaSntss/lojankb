@@ -1,5 +1,5 @@
 # Loja NKB <br>
-### Projeto desenvolvido como requisito para o 1° bimestre da matéria Desenvolvimento WEB. 👩🏻‍💻
+### Projeto desenvolvido para a matéria de Desenvolvimento WEB. 👩🏻‍💻
 
 Acadêmicas: 
 - Bruuna Celia;
